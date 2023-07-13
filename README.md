@@ -1,6 +1,6 @@
 
 <div align='center'>
-  <img src='https://68.media.tumblr.com/fe195e9db7b66a729194a43370a21795/tumblr_oja6h1f90C1rzss56o1_500.gif' alt='mad typing cat gif'>
+  <img src='https://24.media.tumblr.com/c9aabea6b3dc5c75639fde3c93183fc0/tumblr_n2552wjYVG1rp6axuo1_500.gif' alt='cliffairy gif' width='800' height='300'>
 <h1 font=italic> _Software Developer_ </h1>
 </div>
 <div align='center'>
