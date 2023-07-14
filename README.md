@@ -21,6 +21,7 @@ Join me on my coding adventure, where we can unleash our creativity, tackle chal
    <img src='https://camo.githubusercontent.com/258e4f46e082ec3dcfa3c4a90970a3d69d992c78c977ba7e0dd47b100a66f6f2/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f72656163742e737667' alt='React' width='50' height='50'>
    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' alt='Python' width='50' height='50'>
    <img src='https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png' alt='MongoDB' width='50' height='50'>
+   <img src='https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png' alt='Flask' width='50' height='50'>
   </p>
   
 </div>
