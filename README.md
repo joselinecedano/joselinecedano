@@ -36,9 +36,9 @@
 
 <div align='center'>
   <a href="https://github.com/joselinecedano/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joselinecedano&show_icons=true&theme=highcontrast&rank_icon=github&hide=issues" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joselinecedano&show_icons=true&theme=cobalt&rank_icon=github&hide=issues" />
     </a>
     <a href="https://github.com/joselinecedano/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselinecedano&langs_count=8&layout=compact&theme=highcontrast" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselinecedano&langs_count=8&layout=compact&theme=cobalt" />
 </a>
 </div>
