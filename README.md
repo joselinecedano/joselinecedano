@@ -1,17 +1,22 @@
+<div align='center'>
+  <img src='https://24.media.tumblr.com/c9aabea6b3dc5c75639fde3c93183fc0/tumblr_n2552wjYVG1rp6axuo1_500.gif' alt='cliffairy gif' width='800' height='300'/>
+  <h1> Software Developer </h1>
+</div>
 
 <div align='center'>
-  <img src='https://24.media.tumblr.com/c9aabea6b3dc5c75639fde3c93183fc0/tumblr_n2552wjYVG1rp6axuo1_500.gif' alt='cliffairy gif' width='800' height='300'>
-<h1 font=italic> _Software Developer_ </h1>
+<p>  </p>
 </div>
+
 <div align='center'>
-<p> Hi, I'm Joseline, a passionate software developer who loves building cool apps for people. I find immense joy in creating solutions that make a positive impact, whether it's helping businesses thrive or making someone's life a little easier.</p>
-  <details>
-      <summary><strong> Read More </strong></summary>
-  <p>🎓 I graduated from General Assembly, where I had the privilege of learning from some amazing individuals with crazy skills, enabling me to lay a solid foundation for my developer career.</p>
-  <p> ✨ I thrive on connecting with like-minded individuals to build remarkable projects together.
-Join me on my coding adventure, where we can unleash our creativity, tackle challenges, and make a difference in the lives of others. Let's connect! Together, we can achieve great things!</p>
-      </details>
+  <a href="https://github.com/joselinecedano/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=joselinecedano&show_icons=true&theme=highcontrast&rank_icon=github&hide=issues" />
+    </a>
+    <a href="https://github.com/joselinecedano/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joselinecedano&langs_count=8&layout=compact&theme=highcontrast" />
+</a>
 </div>
+
+</br>
 
 <div align='center'>
   <p>
@@ -23,5 +28,4 @@ Join me on my coding adventure, where we can unleash our creativity, tackle chal
    <img src='https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png' alt='MongoDB' width='50' height='50'>
    <img src='https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png' alt='Flask' width='50' height='50'>
   </p>
-  
 </div>
