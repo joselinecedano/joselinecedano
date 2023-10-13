@@ -3,8 +3,7 @@
   <h1> Software Developer </h1>
 </div>
 
-<div align='center'>
-<p>  </p>
+<div align='center'> 
 </div>
 
 <div align='center'>
@@ -27,5 +26,10 @@
    <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png' alt='Python' width='50' height='50'>
    <img src='https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png' alt='MongoDB' width='50' height='50'>
    <img src='https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png' alt='Flask' width='50' height='50'>
+   <img src='https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png' alt='Express.js' width='50' height='50'>
+   <img src='https://cdn.freebiesupply.com/logos/large/2x/nodejs-icon-logo-png-transparent.png' alt='Node.js' width='50' height='50'>
+   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/512px-Typescript_logo_2020.svg.png?20221110153201' alt='Typescript' width='50' height='50'>
+   <img src='https://cdn.worldvectorlogo.com/logos/postman.svg' alt='Postman' width='50' height='50'>
+   <img src='https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png' alt='SQL' width='50' height='50'>
   </p>
 </div>
