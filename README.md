@@ -7,7 +7,7 @@
 </div>
 
 <div align='center'>
-  Swapped my apron for algos and cocktails for code – because life's too short. 🚀 I'm on this wild career switch, and I want to show you that if I can do it, so can you! 💪  Every day is a new chance to dive into fresh projects and fine-tune the old ones. I'm all about learning new tricks and actually using them. Join me on this journey – building cool stuff, making mistakes, and perfecting our craft. Follow along, and let's create some awesome things! 🌟
+  Swapped my apron for algos and cocktails for code – because life's too short. 🚀 I'm on this wild career switch, and I want to show you that if I can do it, so can you! 💪  Every day is a new chance to dive into fresh projects and fine-tune the old ones. I'm all about learning new tricks and actually using them. Join me on this journey – building cool stuff, making mistakes, and perfecting my craft. Follow along, and let's create some awesome things! 🌟
 </div>
 
 </br>
